@@ -1,10 +1,10 @@
 # Hello World:wave:
 
-> Á©SBµÄ¿ìÀÖÉú»î£¨bushi£©
+> ä¿©SBçš„å¿«ä¹ç”Ÿæ´»ï¼ˆbushiï¼‰
 
-## ¼ò½é / Introduction
-- Õâ¸öºÅÉÏÒ²¾ÍÏ¹Ğ´µã¶«Î÷
-- ¿ÉÄÜÒÔºó»áÓĞ¸üºÃµÄ²Ö¿â°É:stuck_out_tongue_closed_eyes:
+## ç®€ä»‹ / Introduction
+- è¿™ä¸ªå·ä¸Šä¹Ÿå°±çå†™ç‚¹ä¸œè¥¿
+- å¯èƒ½ä»¥åä¼šæœ‰æ›´å¥½ã€æ›´å®ç”¨çš„ä»“åº“å§:stuck_out_tongue_closed_eyes:
 
 &nbsp;&nbsp;
 [![Github Pages](https://img.shields.io/badge/-GitHub%20Pages-black?logo=GitHubpages&style=flat-square)](https://Two-Super-Boss.github.io)
